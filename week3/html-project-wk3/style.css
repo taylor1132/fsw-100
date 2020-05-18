@@ -1,0 +1,66 @@
+h1{
+    color:blue;
+    font-size:55px;
+    text-align:center;
+    margin-top:30px;
+
+    
+}
+h2{
+    font-size:25px;
+    text-align:center;
+}
+nav{
+    color:maroon;
+    font-size:20px;
+    float:right;
+    word-spacing:12px;
+    font-weight:bold;
+    margin-right:50px;
+}
+body{
+    background-color:#7BD2E8;
+}
+table, th, td, tr {
+    border:1px solid black;
+    margin-left:auto;
+    margin-right:auto; 
+    margin-top:30px;
+}
+img {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+.taylor {
+    color:darkgreen;
+    text-align:center;
+}
+.img2{
+    display:block;
+    margin-left:auto;
+    margin-right:auot;
+    width:50%;
+}
+.bahamas {
+    text-align:center;
+    margin-top:50px;
+}
+.hawaii {
+    text-align:center;
+    margin-top:50px;
+}
+.hawaii-p {
+    float:left;
+}
+.fiji {
+    text-align:center;
+    margin-top:50px;
+}
+.footer {
+    font-size:11px;
+    text-align:center;
+}
