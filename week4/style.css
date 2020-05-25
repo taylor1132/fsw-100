@@ -1,0 +1,169 @@
+
+body {
+    
+    margin:10px;
+    text-align:center;
+    
+}
+
+.nav {
+position: relative;
+width:100%;
+margin:0px;
+background-color: rgb(136, 137, 138);
+font-size:18px;
+word-spacing:400px;
+
+}
+
+
+   
+h1{
+    text-align:center;
+    color:maroon;
+    font-family: sans-serif;
+    margin-bottom:50px;
+    margin-top:50px;
+    font-size:45px;
+}
+.thumb-img{
+    float:left;
+    margin:8px;
+}
+.first-paragraph{
+    text-align:justify;
+    font-size:18px;
+}
+.div-one{
+    margin-right:400px;
+    margin-left:400px;
+}
+h3 {
+font-size:25px;
+}
+.beach-img{
+    float:left;
+    margin:10px;
+
+}
+.second-paragraph{
+    text-align:justify;
+    font-size:18px;
+}
+.div-two{
+    margin-right:400px;
+    margin-left:400px;
+}
+.date{
+    font-style:italic;
+    margin-bottom:100px;
+}
+
+
+.div-three{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.peace1 {
+    float:left;
+    margin:10px;
+}
+.para3 {
+    text-align: justify;
+    font-size: 18px;
+}
+/*....................grid html css ......................*/
+
+.div1{
+    width:100%;
+    background-color:#f5c6d6;
+    height:190px;
+    border:10px solid white;
+}
+/* ----------- 4 dark pink -------------*/
+.div2{
+    width:375px;
+    background-color:#EE2E84;
+    height:175px;
+    border: 10px solid white;
+    border-top:5px;
+    position: absolute;
+    
+   
+
+   
+    
+}
+.div3{
+    width:375px;
+    background-color:#ee2e84;
+    height:175px;
+    border: 10px solid white;
+    border-top:5px;
+    position: absolute;
+    left:351px;
+   
+    
+}
+.div4{
+    width:375px;
+    background-color:#ee2e84;
+    height:175px;
+    border: 10px solid white;
+    border-top:5px;
+    position: absolute;
+    right:376px;
+  }
+  .div5 {
+    width:375px;
+    background-color:#ee2e84;
+    height:175px;
+    border: 10px solid white;
+    border-top:5px;
+    position: absolute;
+    right:-10px;
+  }
+/*---------- 2 blue  ----------*/
+  .div6 {
+    background-color:#85CFD8;
+    height:175px;
+    width:650px;
+    border: 10px solid white;
+    border-top:0px solid white;
+    position: relative;
+    top:185px;
+    
+  }
+
+  .div7{
+    background-color:#85CFD8;
+    height:175px;
+    width:760px;
+    border:10px solid white;
+    border-top: 0px solid white;
+    position: absolute;;
+    top:405px;
+    right:-10px;
+  }
+  /*------------ green/orange-----------*/
+
+  .div8{
+    background-color:#8DC63F;
+    height:190px;
+    width:1035px;
+    border:10px solid white;
+    border-top: 0px solid white;
+    position:relative;
+    top:185px;
+  }
+
+  .div9{
+    background-color:#E76E34;
+    height:190px;
+    width:375px;
+    border:10px solid white;
+    border-top:0px solid white;
+    position:absolute;
+    right:-10px;
+    top:590px;
+  }
