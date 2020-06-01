@@ -1,0 +1,103 @@
+body{
+    background-color:rgb(161, 165, 168);
+}
+
+
+
+h1{
+    color:black;
+    position: relative;
+    margin-top:40px;
+    margin-bottom:50px;
+    font-size:40px;
+    margin-left:500px;
+    
+    
+}
+
+nav{
+    color:maroon;
+    font-size:20px;
+    float:right;
+    word-spacing:200px;
+    font-weight:bold;
+    margin-right:300px;
+    margin-bottom:50px;
+    text-decoration: none;
+   
+}
+.main-img{
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+    width:50%;
+    height:500px;
+}
+.main-paragraph{
+    font-size:20px;
+    margin-left:100px;
+    margin-right:100px;
+    margin-bottom:120px;
+}
+.services-img{
+    width:400px;
+    margin-left:75px;
+}
+
+.organic-img{
+    width:400px;
+    height:265px;
+    margin-left:30px;
+    
+}
+
+.review-img{
+    width:400px;
+    float:right;
+    margin-right:75px;
+    margin-left:0px;
+}
+
+.services{
+    font-size:20px;
+    margin-left:90px;
+    margin-top:0px;
+    display:inline;
+    clear:none;
+}
+.servh4{
+    font-size:25px;
+    margin-left:200px;
+    border-bottom:3px solid black;
+    display:inline-block;
+    margin-bottom:10px;
+    position: relative;
+    clear:none;
+    background-color:blue;
+    width:100px;
+}
+.organic {
+    margin-left:550px;
+    font-size:25px;
+    position: relative;
+    display:inline;
+    margin-top:-800px;
+
+}
+table, th, td, tr {
+    border:1px solid black;
+    margin-left:auto;
+    margin-right:auto; 
+    margin-top:30px;
+    margin-bottom:200px;
+}
+    .review{
+font-size:18px;
+float:right;
+
+    }
+
+    .revh4{
+        font-size:25px;
+        float:right;
+    }
