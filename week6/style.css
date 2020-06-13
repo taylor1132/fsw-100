@@ -1,0 +1,74 @@
+#parent{
+    position:flex;
+}
+
+
+#box1{
+    background-color:blue;
+    height:200px;
+    width:200px;
+    margin-top:50px;
+    border: green solid 5px;
+    transition: background-color 1s linear 1s;
+
+}
+#box1:hover{
+    background-color: maroon;
+    width: 500px;
+    border: black solid 7px;
+}
+
+#box2{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin-top:50px;
+    transition: width 500ms linear 500ms, height 500ms linear 500ms;
+}
+#box2:hover{
+    background-color:cornflowerblue;
+    width:100px;
+    height:100px;
+}
+#box3{
+    background-color:green;
+    height: 200px;
+    width: 200px;
+    margin-top:50px;
+    transition: background-color 500ms ease-out 0,border 500ms ease-out 0;
+}
+#box3:hover{
+    background-color:navy;
+    border:darkred dashed 6px;
+}
+#box4{
+    background-color: maroon;
+    height: 200px;
+    width: 200px;
+    margin-top:50px;
+}
+#box4:hover{
+    background-color: darkgoldenrod;
+    height:100px;
+    border:black solid 6px;
+}
+#box5{
+    background-color:purple;
+    height: 200px;
+    width: 200px;
+    margin-top:50px;
+}
+#box5:hover{
+    background-color:gray;
+    margin-left:500px;
+}
+#box6{
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+    margin-top:50px;
+}
+#box6:hover{
+    background-color:greenyellow;
+    margin-left:300px;
+}

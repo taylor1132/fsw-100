@@ -1,0 +1,26 @@
+#div1{
+    background-color:#F5C6D6;
+    width:1415px;
+    height:150px;
+    border:10px solid black;
+    margin-left:-6px;
+}
+
+#div2{
+    background-color:#EE2E84;
+    height:150px;
+    width:356px;
+    border-left: 10px solid black;
+    border-bottom:10px solid black;
+    border-right:10px solid black;
+    margin-left:-6px;
+}
+
+#div3{
+    background-color:#ee2e84;
+    height:150px;
+    width:356px;
+    float:left;
+    margin-left:366px;
+    margin-top:10px;
+}
